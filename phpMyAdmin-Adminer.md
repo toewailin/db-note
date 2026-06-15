@@ -1,5 +1,3 @@
-ဤမှတ်တမ်းသည် သင်၏ Laravel Herd, DBngin နှင့် Database UI tools (phpMyAdmin, Adminer) တို့ကို စနစ်တကျပေါင်းစပ်အသုံးပြုနိုင်ရန် ဖန်တီးထားသော ပြည့်စုံသည့် Developer User Guide (Myanmar Version) ဖြစ်ပါသည်။
-
 # Enterprise Database Administration Runbook: Herd & DBngin Ecosystem
 
 **Target Platforms:** MySQL & PostgreSQL (Windows + Laravel Herd Environment)
